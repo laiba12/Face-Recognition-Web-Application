@@ -7,7 +7,6 @@ A basic app for Face Recognition in images using Javascript, NodeJS and face-api
 3. <a href="https://javascript.info/" target="_blank">JavaScript</a>
 
 
-
 Prerequisites to run the app in local environment
 1. Installed NodeJS
 
