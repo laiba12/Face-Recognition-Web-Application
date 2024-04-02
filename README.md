@@ -18,6 +18,11 @@ Install npm by following command
 
 Initialize npm and get all the required npm packages for the project.
 
+<b>Step 2:</b>
+In the project directory, you can run:
+
+### `npm run start`
+
 <b>Congratulations!</b> You are good to GO now.
 
 <b>Note:</b>
