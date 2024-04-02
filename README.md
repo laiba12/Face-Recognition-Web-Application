@@ -14,7 +14,7 @@ Prerequisites to run the app in local environment
 <b>Step 1:</b>
 Install npm by following command
 
-### 'npm i'
+### `npm i`
 
 Initialize npm and get all the required npm packages for the project.
 
